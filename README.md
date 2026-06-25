@@ -1,1 +1,1 @@
-https://streak-stats.demolab.com?user=munaesmael18-collab=github-dark&cache_seconds=3600
+[![GitHub Streak](https://streak-stats.vercel.app?user=Munaesmael18-collab%20)](https://git.io/streak-stats)
