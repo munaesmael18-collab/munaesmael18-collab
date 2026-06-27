@@ -29,7 +29,7 @@ I'm a passionate competitive programmer and web developer who loves solving chal
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=munaesmael18-collab=github-dark)
+![GitHub Streak](https://streak-stats.demolab.com?munaesmael18-collab=github-dark)
 
 
 ## 🎯 Goals
